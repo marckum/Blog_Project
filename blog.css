@@ -1,0 +1,32 @@
+*{margin: 0; padding: 0;}
+
+body{font-size: 18px; font-family: "Trebuchet"; background: #F3F3F3;}
+#navegar{background: #000000; border-bottom: 1px solid #D8D8D8; height: 55px; position: fixed; width: 100%; top: 0px; margin: 0 auto;}
+#area-navegar{width: 80%; margin: 0 auto;}
+#logo{float: left; font-size: 45px;}
+#menu{float: right; padding: 0px 0px; font-size: 20px}
+#area-principal{width: 80%; margin: 65px auto 10px auto;}
+#postagem{background: #b3b3b3; padding: 10px}
+
+a{text-decoration: none;}
+a:link{color: #e6e6e6}
+a:visited{color: #bfbfbf}
+a:hover{color: #4d4d4d; background: #f2f2f2;}
+a:active{color: #000000; background:#666666 ;}
+
+.branco{color: #FFFFFF}
+.cinza{color: #595959; font-size: 30px;}
+.titulo{color: #FFFFFF; font-size: 30px; font-style: bold;}
+.subtitulo{color: #000000; font-size: 20px; font-style: bold; font-family: "Times New Roman";}
+.topicos{color: #000000; font-size: 25px; font-style: bold; font-family: "Times New Roman"; padding: 25px 0px 10px 0px;}
+.data{color: #000000; font-size: 12px; padding: 10px 10px;}
+.texto{color: #1a1a1a; font-size: 15px; font-family: "Arial";}
+.list{color: #001a33; font-size: 18px; font-family: "Arial"; padding: 25px 0px 10px 15px;}
+.list2{color: #001a33; font-size: 18px; font-family: "Arial"; padding: 15px 0px 10px 10px;}
+.legenda{color: #000000; font-size: 12px; font-family: "Arial";} 
+.imagem{float: left; margin: 0px 10px 5px 0px;}
+.img{ margin: 20px 10px 5px 0px;}
+.galeria{text-align:center;}
+.fonte{color: #FFFFFF; font: 10px;}
+.post-por{border-left: 5px solid gray; padding-left: 5px; display: block; margin: 10px;}
+.cadastro{margin: 10px 10px 10px 10px;}
